@@ -1,0 +1,5 @@
+setup.py
+Ikea.egg-info/PKG-INFO
+Ikea.egg-info/SOURCES.txt
+Ikea.egg-info/dependency_links.txt
+Ikea.egg-info/top_level.txt
